@@ -1,0 +1,43 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Juan",
+      "username": "dkb4rb",
+      "password": "Holas123*",
+      "apellido": "Colombia",
+      "city": "Medellin",
+      "user_addres": "Calle 93B # 34-50",
+      "id": 1646528792819
+    }
+  ],
+  "Houses": [
+    {
+      "id": 1,
+      "Direccion": "calle 93B # 34 -50",
+      "Pais": "Colombia",
+      "Ciudad": "Medellin",
+      "Habitaciones": 4,
+      "Baños": 2,
+      "Estado": 1
+    },
+    {
+      "id": 2,
+      "Direccion": "calle 93B # 34 -50",
+      "Pais": "Colombia",
+      "Ciudad": "Medellin",
+      "Habitaciones": 4,
+      "Baños": 2,
+      "Estado": 1
+    },
+    {
+      "id": 3,
+      "Direccion": "calle 93B # 34 -50",
+      "Pais": "Colombia",
+      "Ciudad": "Medellin",
+      "Habitaciones": 4,
+      "Baños": 2,
+      "Estado": 1
+    }
+    
+  ]
+}
